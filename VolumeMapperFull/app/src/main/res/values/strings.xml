@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Volume Mapper Full</string>
+    <string name="accessibility_description">Maps Volume Down to repeated Minecraft attack taps.</string>
+</resources>
